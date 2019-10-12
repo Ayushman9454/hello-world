@@ -1,4 +1,3 @@
 # hello-world
 new one
-my name is rohit verma and iam urently studying in iiitlucknow
-and my mentor institut is currently iiit allahabad
+My name is Rohit Verma and I am currently studying in IIIT Lucknow.
